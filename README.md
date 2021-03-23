@@ -51,7 +51,7 @@ Este procedimento foi realizado nos outros objetos (BP_Corredor2 e BP_Corredor3)
 
 ## Video:
 
-![Atividade BluePrints Intermediário - Unreal Engine 4](https://www.youtube.com/watch?v=m_LFZCGEiJM)
+[Atividade BluePrints Intermediário - Unreal Engine 4](https://www.youtube.com/watch?v=m_LFZCGEiJM)
 
 
 ## Referências:
