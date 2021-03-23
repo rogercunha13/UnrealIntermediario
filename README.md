@@ -31,9 +31,10 @@ Utilizando o Delta Seconds não dependendo do FPS.
 Velocidade = 10;
 Distancia = 1000;
 
-- Criado a Função Movimento do Corredor:
+- Criado a Função Movimento do Corredor, Conforme imagem abaixo:
 
-![FuncaodoCorredor_Deltaseconds](Imagens/FuncaodoCorredor_Deltaseconds.jpg)
+![FuncaoCorredor](Imagens/FuncaoCorredor.jpg)
+
 
 
 ## Referências:
