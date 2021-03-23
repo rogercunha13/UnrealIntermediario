@@ -33,7 +33,8 @@ Distancia = 1000;
 
 - Criado a Função Movimento do Corredor:
 
-![FuncaoCorredor_Deltaseconds](Imagens/FuncaoCorredor_Deltaseconds.jpg)
+![FuncaodoCorredor_Deltaseconds](Imagens/FuncaodoCorredor_Deltaseconds.jpg)
+
 
 ## Referências:
 
