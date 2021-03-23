@@ -25,7 +25,7 @@ Utilizando o Delta Seconds não dependendo do FPS.
 
 - Em cada Actor foi inserido uma Static Mesh;
 
-- No BP_Corredor1, no Event Graph, foi realizado os seguintes procedimentos:
+- No **BP_Corredor1**, no Event Graph, foi realizado os seguintes procedimentos:
 
 - Criado as variáveis:
 Velocidade = 10;
@@ -35,6 +35,23 @@ Distancia = 1000;
 
 ![FuncaoCorredor](Imagens/FuncaoCorredor.jpg)
 
+Após isso, No Event Graph, realizado a chamada da Função e os parâmetros para o moviemento do corredor:
+
+![DeltaSeconds_MovimentodoCorredor](Imagens/DeltaSeconds_MovimentodoCorredor.jpg)
+
+Este procedimento foi realizado nos outros objetos (BP_Corredor2 e BP_Corredor3);
+
+**BP_Corredor2:**
+
+![FuncaoCorredor_BP_Corredor2](Imagens/FuncaoCorredor_BP_Corredor2.jpg)
+
+**BP_Corredor3**
+
+![FuncaoCorredor_BP_Corredor3](Imagens/FuncaoCorredor_BP_Corredor3.jpg)
+
+## Video:
+
+![Atividade BluePrints Intermediário - Unreal Engine 4](https://www.youtube.com/watch?v=m_LFZCGEiJM)
 
 
 ## Referências:
