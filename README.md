@@ -33,6 +33,8 @@ Distancia = 1000;
 
 - Criado a Função Movimento do Corredor:
 
+![Funcao do Corredor - Delta seconds](Imagens/Funcao do Corredor - Delta seconds.jpg)
+
 ## Referências:
 
 [CafeGeek / Desenvolvimento de jogos utilizando Unreal Engine 4](https://myerco.github.io/CafeGeek/ue4_blueprint/comunicacao_entre_blueprint.html#5)
