@@ -7,7 +7,7 @@
 
 ## Delta Time
 
-O que é Delta Time?
+O que é **Delta Time**?
 
 É o tempo entre cada frame.
 Frame: Um quadro ou imagem apresentada, uma animação é composta por vários frames.
@@ -33,7 +33,7 @@ Distancia = 1000;
 
 - Criado a Função Movimento do Corredor:
 
-![Funcao do Corredor - Delta seconds](Imagens/Funcao do Corredor - Delta seconds.jpg)
+[Funcao do Corredor - Delta seconds](Imagens/Funcao do Corredor - Delta seconds.jpg)
 
 ## Referências:
 
